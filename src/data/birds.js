@@ -51,7 +51,7 @@ const birdData = [
   },
 
   {
-    img: "https://www.onthewingphotography.com/wings/wp-content/uploads/2023/08/blue-jay-young-arkansas-mia-mcpherson-4840.jpg",
+    img: `${import.meta.env.BASE_URL}images/blue-jay.jpg`,
     name: "Blue Jay",
     wiki: "https://en.wikipedia.org/wiki/Blue_jay",
     amount: 10000,
