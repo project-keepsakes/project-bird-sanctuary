@@ -14,14 +14,14 @@ const birdData = [
     id: 555,
   },
   {
-    img: "/images/royal-flycatcher.jpg",
+    img: `${import.meta.env.BASE_URL}images/royal-flycatcher.jpg`,
     name: "Royal Flycatcher",
     wiki: "https://en.wikipedia.org/wiki/Royal_flycatcher",
     amount: 300,
     id: 777,
   },
   {
-    img: "/images/boat-billed-heron.jpg",
+    img: `${import.meta.env.BASE_URL}images/boat-billed-heron.jpg`,
     name: "Boat Billed Heron",
     wiki: "https://en.wikipedia.org/wiki/Boat-billed_heron",
     amount: 600,
@@ -43,7 +43,7 @@ const birdData = [
     id: 1010,
   },
   {
-    img: "/images/frilled-coquette.jpg",
+    img: `${import.meta.env.BASE_URL}images/frilled-coquette.jpg`,
     name: "Frilled Coquette Hummingbird",
     amount: 600,
     wiki: "https://en.wikipedia.org/wiki/Frilled_coquette",

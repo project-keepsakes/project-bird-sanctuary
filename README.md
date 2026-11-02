@@ -43,7 +43,7 @@ This **Bird Sanctuary Adoption App** is a user-friendly one page application bui
 
 ## Live Demo
 
-Try the app here: [SkyHaven Sanctuary](https://skyhavensanctuary.netlify.app/)
+Try [SkyHaven Sanctuary on GitHub Pages](https://project-keepsakes.github.io/project-bird-sanctuary/). The [Netlify demo](https://skyhavensanctuary.netlify.app/) is also available.
 
 
 ## Project Structure and Data Management
