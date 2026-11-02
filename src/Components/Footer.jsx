@@ -33,6 +33,7 @@ export default function Footer({ showAlert, closeAlert, closeAlertBird, showAler
     </div>
     <details className="photo-credits">
       <summary>Photo credits</summary>
+      <p>Blue Jay: <a href="https://commons.wikimedia.org/wiki/File:Blue_Jay_(Cyanocitta_cristata).jpg">Pheanix</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. The source photograph is bundled unchanged and displayed with a cropped fit.</p>
       <p>Royal Flycatcher: <a href="https://commons.wikimedia.org/wiki/File:Royal_Flycatcher_(7092232997).jpg">Don Faulkner</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>; Boat Billed Heron: <a href="https://commons.wikimedia.org/wiki/File:Boat_Billed_Heron.jpg">Ltshears</a>, public domain; Frilled Coquette: <a href="https://commons.wikimedia.org/wiki/File:Frilled_Coquette_(Lophornis_magnificus).jpg">Rick elis.simpson</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Photos are displayed with a cropped fit; source files are unchanged.</p>
     </details>
   </footer>;
